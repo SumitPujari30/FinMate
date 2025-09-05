@@ -13,5 +13,3 @@ Link= https://finmate-finance-ai.netlify.app/
 - 🎨 **Modern UI** – Built with Next.js, Tailwind CSS, and ShadCN components.
 
 ---
-
-## 📂 Project Structure
