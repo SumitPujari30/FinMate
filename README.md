@@ -1,6 +1,7 @@
 # FinMate 💰🤖
 A **Financial LLM-powered chatbot** built with **Next.js**.  
 FinMate helps users understand banking terms, calculate loans, and detect fraud alerts using AI.
+Link= https://finmate-finance-ai.netlify.app/
 
 ---
 
